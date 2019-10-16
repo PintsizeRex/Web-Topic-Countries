@@ -1,0 +1,42 @@
+body {
+background-color: rgb(93,219,149);
+}
+h1 {
+text-align: center;
+color:rgb(5,56,110);
+font-size: 50px;
+font-weight: bold;
+}
+h2 {
+color:rgb(237,245,225);
+font-size: 32px;
+font-weight: bold;
+margin-left: 700px;
+}
+p {
+color:rgb(237,245,225);
+font-size: 26px;
+}
+
+li {
+color:rgb(237,245,225);
+font-size: 30px;
+margin-left: 750px;
+}
+#globe {
+width: 30%;
+position: absolute;	
+}
+#sub {
+margin-top: 30px;
+font-size: 40px;
+}
+#RevoPar {
+margin-left: 30px;
+font-size: 30px;
+}
+#RevJpg {
+margin-top: 40px;	
+margin-left:400px;
+}
+#unitedpic {
